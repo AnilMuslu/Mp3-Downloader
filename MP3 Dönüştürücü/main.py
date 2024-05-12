@@ -1,6 +1,3 @@
-#import install
-
-#pip install youtube_dl
 import os
 import youtube_dl
 
@@ -23,6 +20,3 @@ print(f"İndirme Tamamlandı ... {dosya_adi}")
 
 os.system("Pause")
 input("")
-
-
-#C:\Users\pc\AppData\Local\Programs\Python\Python310\Lib
